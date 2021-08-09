@@ -4,12 +4,14 @@ Core java
 api testing
 MongoDB
 
-Selenim
+Selenium
 
 automation
 
 
+Pizza & Beans 
 Okay will do that
+
 
 Regards,
 Harish
